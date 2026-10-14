@@ -1,0 +1,15 @@
+{
+  "short_name": "WeatherApp",
+  "name": "لائیو موسمی ایپ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0984e3",
+  "theme_color": "#0984e3",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1163/1163657.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
